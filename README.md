@@ -1,42 +1,42 @@
 # 📊 FUTURE_DS_01
 
-## 📌 Data Science & Analytics Internship Tasks  
-This repository contains all tasks completed as part of the Future Interns Data Science & Analytics Internship.
----
-## 🚀 Task 1: Business Sales Performance Dashboard
+## 📌 Data Science & Analytics Internship Tasks
+This repository contains all tasks completed as part of the Data Science & Analytics Internship.
 
-### 🔍 Objective
-Analyze business sales data to identify trends, top-performing products, and regional performance.
 ---
-### 🛠️ Tools Used
-- Power BI  
-- Microsoft Excel  
+
+## 🚀 Tasks Overview
+
+### 🔹 Task 1: Business Sales Performance Dashboard
+- Analyzed sales data to identify trends, top products, and regional performance
+- Built an interactive dashboard using Power BI
+
+### 🔹 Task 2
+(To be updated)
+
+### 🔹 Task 3
+(To be updated)
+
+### 🔹 Task 4
+(To be updated)
+
 ---
-### 📊 Analysis Performed
-- Sales trend analysis over time  
-- Category-wise performance analysis  
-- Top-selling products identification  
-- Region-wise sales comparison  
+
+## 🛠️ Tools Used
+- Power BI
+- Microsoft Excel
+
 ---
-### 📈 Key Insights
-- Sales vary significantly across regions  
-- A small number of products contribute to major revenue  
-- Some categories outperform others consistently  
-- Sales trends show fluctuations over time  
+
+## 📁 Repository Structure
+
+FUTURE_DS_01
+ ┣ Task_1_Sales_Dashboard
+ ┣ Task_2_...
+ ┣ Task_3_...
+ ┗ Task_4_...
+
 ---
-### 💡 Recommendations
-- Focus on high-performing regions to maximize revenue  
-- Promote top-selling products for better growth  
-- Improve performance of low-performing categories  
-- Optimize business strategies based on trends  
----
-### 📁 Files Included
-- `future1.pbix` – Power BI Dashboard  
-- `Sample - Superstore.csv` – Dataset  
----
-### 📸 Dashboard Preview
-*(Will be added soon)*
 
 ## 📬 Author
 - Madhuri Lolla
-
