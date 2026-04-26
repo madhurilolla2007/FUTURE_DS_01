@@ -17,8 +17,6 @@ This repository contains all tasks completed as part of the Data Science & Analy
 ### 🔹 Task 3
 (To be updated)
 
-### 🔹 Task 4
-(To be updated)
 
 ---
 
@@ -34,8 +32,7 @@ FUTURE_DS_01
  ┣ Task_1_Sales_Dashboard
  ┣ Task_2_...
  ┣ Task_3_...
- ┗ Task_4_...
-
+ 
 ---
 
 ## 📬 Author
